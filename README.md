@@ -1,4 +1,4 @@
-enhance communication across multiple languages. It supports a wide range of translation features, including text to text, text to speech, speech to speech, and speech to text conversions.
+It supports a wide range of translation features, including text to text, text to speech, speech to speech, and speech to text conversions.
 
 ## Key Features:
 
