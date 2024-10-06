@@ -1,6 +1,4 @@
-# MLVerse - Hackmania
-
-TransVerse is a versatile translation tool created by the MLVerse team . This web application, developed with the MERN stack (MongoDB, Express, React, Node.js) and Python, is designed to enhance communication across multiple languages. It supports a wide range of translation features, including text to text, text to speech, speech to speech, and speech to text conversions.
+enhance communication across multiple languages. It supports a wide range of translation features, including text to text, text to speech, speech to speech, and speech to text conversions.
 
 ## Key Features:
 
@@ -13,9 +11,4 @@ TransVerse is a versatile translation tool created by the MLVerse team . This we
 - **Speech-to-Speech Translation:** Speak in your native language, and TransVerse will provide real-time speech-to-speech translations for effective verbal communication.
 
 - **Speech-to-Text Conversion:** Record spoken words and receive text-based transcriptions, facilitating easy understanding and documentation.
-
-TransVerse was originally developed for the Hack Mania, a hackathon organised by GDSC ACE , and it continues to evolve as a testament to the MLVerse team's commitment to linguistic diversity and technological innovation.
-
-
-TransVerse - Bridging Language Gaps, One Line of Code at a Time.
 
